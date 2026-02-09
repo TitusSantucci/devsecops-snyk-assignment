@@ -1,0 +1,8 @@
+{
+  "name": "devsecops-snyk-assignment",
+  "version": "1.0.0",
+  "description": "Sample project for Snyk scanning",
+  "dependencies": {
+    "lodash": "4.17.15"
+  }
+}
